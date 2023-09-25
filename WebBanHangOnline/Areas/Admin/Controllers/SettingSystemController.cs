@@ -12,15 +12,13 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
     {
         private ApplicationDbContext db = new ApplicationDbContext();
         // GET: Admin/SettingSystem
-        [HttpGet]
         public ActionResult Index()
         {
             return View();
         }
-
         public ActionResult Partial_Setting()
         {
-            return PartialView("Index");
+            return PartialView();
         }
         [HttpPost]
         public ActionResult AddSetting(SettingSystemViewModel req)
