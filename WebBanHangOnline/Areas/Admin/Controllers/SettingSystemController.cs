@@ -20,7 +20,7 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
 
         public ActionResult Partial_Setting()
         {
-            return PartialView();
+            return PartialView("Index");
         }
         [HttpPost]
         public ActionResult AddSetting(SettingSystemViewModel req)
