@@ -12,6 +12,8 @@ Tech stacks:
 - Back-end: ASP.Net MVC
 - Database: MS SQL Server
 
+Link: http://fashig17-001-site1.itempurl.com/
+
 Shop Web
 ![Screenshot 2023-10-03 083827](https://github.com/Josnht/WebBanHangOnline/assets/105603294/10de0760-5aba-456c-babe-416abce271b4)
 ![Shop Online - Google Chrome 2023-10-05 00-41-55](https://github.com/Josnht/WebBanHangOnline/assets/105603294/cc585f89-46f5-4610-8c59-c744b2acefeb)
