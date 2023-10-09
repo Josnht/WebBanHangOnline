@@ -1,6 +1,7 @@
 # WebBanHangOnline
  
 Group: 3
+A Shopping Web Application includes a Client Web Shop and an Admin CMS Web. Made with ASP.Net MVC 
 
 Participants:
 - Member: Nguyễn Mạnh Đức - 20521196
